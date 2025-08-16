@@ -19,7 +19,7 @@ We believe that all developers should have free access to industry-level tooling
 
 That's why we're making our suite of tools:
 
-- [🫧 Hydrogen](https://github.com/teamhydrogen/hydrogen)
+- 🫧 [Hydrogen](https://github.com/teamhydrogen/hydrogen)
 - 🖌️ Chroma (TO BE RELEASED)
 
 We try and make the development experience fun and quick, so you can work fast and not get dragged down by the repetitiveness of boilerplate.
