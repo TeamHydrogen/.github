@@ -1,6 +1,6 @@
 # Welcome to Team Hydrogen! 🫧
 
-![Team Hydrogen](./assets/banner.png)
+![Team Hydrogen](../assets/banner.png)
 
 ---
 
